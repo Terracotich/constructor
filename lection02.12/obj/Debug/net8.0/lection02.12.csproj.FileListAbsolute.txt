@@ -1,0 +1,14 @@
+E:\c#_proj\lection02.12\bin\Debug\net8.0\lection02.12.exe
+E:\c#_proj\lection02.12\bin\Debug\net8.0\lection02.12.deps.json
+E:\c#_proj\lection02.12\bin\Debug\net8.0\lection02.12.runtimeconfig.json
+E:\c#_proj\lection02.12\bin\Debug\net8.0\lection02.12.dll
+E:\c#_proj\lection02.12\bin\Debug\net8.0\lection02.12.pdb
+E:\c#_proj\lection02.12\obj\Debug\net8.0\lection02.12.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_proj\lection02.12\obj\Debug\net8.0\lection02.12.AssemblyInfoInputs.cache
+E:\c#_proj\lection02.12\obj\Debug\net8.0\lection02.12.AssemblyInfo.cs
+E:\c#_proj\lection02.12\obj\Debug\net8.0\lection02.12.csproj.CoreCompileInputs.cache
+E:\c#_proj\lection02.12\obj\Debug\net8.0\lection02.12.dll
+E:\c#_proj\lection02.12\obj\Debug\net8.0\refint\lection02.12.dll
+E:\c#_proj\lection02.12\obj\Debug\net8.0\lection02.12.pdb
+E:\c#_proj\lection02.12\obj\Debug\net8.0\lection02.12.genruntimeconfig.cache
+E:\c#_proj\lection02.12\obj\Debug\net8.0\ref\lection02.12.dll
